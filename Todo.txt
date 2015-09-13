@@ -27,3 +27,6 @@ Equiptment CHDT's
 
 Scoreboard (000012BD)
 	- Extract 0000131A, recreate to a higher quality, rescale in tegs.
+
+Gametype Displays
+	- Rescale
