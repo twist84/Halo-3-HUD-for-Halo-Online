@@ -76,4 +76,32 @@ edit 00000792
 import 0 OtherTextures\00000792.dds
 exit
 
+edit 00000CA2
+import 0 OtherTextures\00000CA2.dds
+exit
+
+edit 00000CA4
+import 0 OtherTextures\00000CA4.dds
+exit
+
+edit 00000CA6
+import 0 OtherTextures\00000CA6.dds
+exit
+
+edit 00000CA7
+import 0 OtherTextures\00000CA7.dds
+exit
+
+edit 000025FA
+import 0 Monitor\000025FA.dds
+exit
+
+edit 000025FB
+import 0 Monitor\000025FB.dds
+exit
+
+edit 000025FC
+import 0 Monitor\000025FC.dds
+exit
+
 exit
