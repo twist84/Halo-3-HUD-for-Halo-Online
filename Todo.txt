@@ -5,6 +5,7 @@ Monitor (000025F4)
 		- Fix the red flash (health bar alone should be flashing).
 	- Fix the radar shape, and blips.
 	- Remake the HUD for HD textures.
+	- Fix distortion.
 
 Sandbox (000012C1)
 	- Move the crosshair somehow.
