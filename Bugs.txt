@@ -1,0 +1,22 @@
+Bugs:
+
+Monitor (000025F4)
+	- The health bar has a line on the right side. 
+	- The radar is oval, like the spartan's radar, when it should be circle.
+	- The radar blips are smaller.
+
+Sandbox (000012C1)
+	- The crosshair shouldn't be centered. This is making scaling the binoculars a difficulty.
+
+Spartan (00000C1E)
+
+Weapon CHDT's
+	- The infinate ammo symbol is broken.
+	- The pickup weapon widget is incorrect. this should be handled by the weapon tag, like the out of ammo text.
+		- This is also breaking the dual weild pickup text, and presumably the take from ally text.
+
+Equiptment CHDT's
+	- They don't show.
+
+Scoreboard (000012BD)
+	- The "Who Am I" arrow should not be handled by the CHDT and therefore isn't positioned correctly.

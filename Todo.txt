@@ -1,0 +1,28 @@
+Todo:
+
+Monitor (000025F4)
+	- Fix the health bar texture.
+		- Fix the red flash (health bar alone should be flashing).
+	- Fix the radar shape, and blips.
+	- Remake the HUD for HD textures.
+
+Sandbox (000012C1)
+	- Move the crosshair somehow.
+
+Spartan (00000C1E)
+	- Remake the textures to a higher quality (tags are already ready).
+	- Fix the Boot Sequence animation (Remove until fixed).
+
+Weapon CHDT's
+	- Fix the infinate ammo symbol.
+	- Recreate bullet meter and schematic sheets to a higher quality.
+
+Weapon WEAP's
+	- Fix the text displays.
+
+Equiptment CHDT's
+	- Rescale and reposition.
+	- Make them show?
+
+Scoreboard (000012BD)
+	- Extract 0000131A, recreate to a higher quality, rescale in tegs.
