@@ -38,7 +38,36 @@ import 000012BD Scoreboard\SCORE_000012BD_CHDT.tag full
 
 edit 0000131A
 import 0 Scoreboard\0000131A.dds
+exit
 
 import 000025F4 Monitor\MONITOR_000025F4_CHDT.tag full
 
 import 000012C1 Monitor\SANDBOX_000012C1_CHDT.tag full
+
+edit 00000A3A
+import 0 OtherTextures\00000A3A.dds
+exit
+
+edit 000009F8
+import 0 OtherTextures\000009F8.dds
+exit
+
+edit 000012BB
+import 0 OtherTextures\000012BB.dds
+exit
+
+edit 000012BC
+import 0 OtherTextures\000012BC.dds
+exit
+
+edit 000012FD
+import 0 OtherTextures\000012FD.dds
+exit
+
+edit 00000791
+import 0 OtherTextures\00000791.dds
+exit
+
+edit 00000792
+import 0 OtherTextures\00000792.dds
+exit
