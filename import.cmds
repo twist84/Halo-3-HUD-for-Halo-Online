@@ -12,6 +12,14 @@ edit 00001C86
 import 0 Weapons\00001C86.dds
 exit
 
+edit 00001D0F
+import 0 Weapons\00001D0F.dds
+exit
+
+edit 00001EF1
+import 0 Weapons\00001EF1.dds
+exit
+
 edit 00000C3C
 import 0 Spartan\00000C3C.dds
 exit
