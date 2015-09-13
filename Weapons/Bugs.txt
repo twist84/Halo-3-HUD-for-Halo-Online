@@ -1,2 +1,0 @@
-SMG
-	Scaling looks a bit off. Needs perfecting.
