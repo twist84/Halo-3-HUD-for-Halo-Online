@@ -1,0 +1,5 @@
+import 00001F50 Weapons\SMG_00001F50 full
+
+edit 00001C86
+import 0 Weapons\00001C86.dds
+exit
