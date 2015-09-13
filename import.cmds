@@ -1,10 +1,16 @@
 import 00001F50 Weapons\SMG_00001F50_CHDT.tag
 
+import 000012BD Scoreboard\SCORE_000012BD_CHDT.tag
+
+import 000025F4 Monitor\MONITOR_000025F4_CHDT.tag
+
+import 000012C1 Monitor\SANDBOX_000012C1_CHDT.tag
+
+import 00000C1E Spartan\SPARTAN_00000C1E_CHDT.tag
+
 edit 00001C86
 import 0 Weapons\00001C86.dds
 exit
-
-import 00000C1E Spartan\SPARTAN_00000C1E_CHDT.tag
 
 edit 00000C3C
 import 0 Spartan\00000C3C.dds
@@ -14,7 +20,7 @@ edit 00000C8A
 import 0 Spartan\00000C8A.dds
 exit
 
-edit 000008B
+edit 00000C8B
 import 0 Spartan\00000C8B.dds
 exit
 
@@ -26,6 +32,10 @@ edit 00000C37
 import 0 Spartan\00000C37.dds
 exit
 
+edit 00000C38
+import 0 Spartan\00000C38.dds
+exit
+
 edit 00000C88
 import 0 Spartan\00000C88.dds
 exit
@@ -34,15 +44,9 @@ edit 00000C89
 import 0 Spartan\00000C89.dds
 exit
 
-import 000012BD Scoreboard\SCORE_000012BD_CHDT.tag
-
 edit 0000131A
 import 0 Scoreboard\0000131A.dds
 exit
-
-import 000025F4 Monitor\MONITOR_000025F4_CHDT.tag
-
-import 000012C1 Monitor\SANDBOX_000012C1_CHDT.tag
 
 edit 00000A3A
 import 0 OtherTextures\00000A3A.dds
@@ -70,4 +74,6 @@ exit
 
 edit 00000792
 import 0 OtherTextures\00000792.dds
+exit
+
 exit
