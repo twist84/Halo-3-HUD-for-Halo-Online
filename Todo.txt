@@ -1,10 +1,9 @@
 Todo:
 
 Monitor (000025F4)
-	- Fix the health bar texture.
-		- Fix the red flash (health bar alone should be flashing).
+	- Fix the red flash (health bar alone should be flashing).
+	- Remake the textures to a higher quality (tags are already ready).
 	- Fix the radar shape, and blips.
-	- Remake the HUD for HD textures.
 	- Fix distortion.
 
 Sandbox (000012C1)
@@ -15,8 +14,15 @@ Spartan (00000C1E)
 	- Fix the Boot Sequence animation (Remove until fixed).
 
 Weapon CHDT's
+	- Remake the textures to a higher quality (tags are already ready).
 	- Fix the infinate ammo symbol.
 	- Recreate bullet meter and schematic sheets to a higher quality.
+
+		Scope meters
+		- Bullet meters here need scaling to 0.7.
+
+		RNG Covanant Carbine
+		- The scope has a sniper bullet meter.
 
 Weapon WEAP's
 	- Fix the text displays.
@@ -26,6 +32,7 @@ Equiptment CHDT's
 	- Make them show?
 
 Scoreboard (000012BD)
+	- Remake the textures to a higher quality (tags are already ready).
 	- Extract 0000131A, recreate to a higher quality, rescale in tegs.
 
 Gametype Displays

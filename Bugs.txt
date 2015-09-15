@@ -1,7 +1,6 @@
 Bugs:
 
 Monitor (000025F4)
-	- The health bar has a line on the right side. 
 	- The radar is oval, like the spartan's radar, when it should be circle.
 	- The radar blips are smaller.
 	- Distortion is broken.
