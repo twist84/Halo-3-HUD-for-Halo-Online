@@ -17,6 +17,7 @@ Weapon CHDT's
 	- Remake the textures to a higher quality (tags are already ready).
 	- Fix the infinate ammo symbol.
 	- Recreate bullet meter and schematic sheets to a higher quality.
+	- Pickup Schematics need resizing.
 
 		Scope meters
 		- Bullet meters here need scaling to 0.7.
