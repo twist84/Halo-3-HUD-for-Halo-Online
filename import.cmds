@@ -74,6 +74,14 @@ edit 00001EF1
 import 0 Weapons\00001EF1.dds
 exit
 
+edit 00001EF2
+import 0 Weapons\00001EF2.dds
+exit
+
+edit 00001EF4
+import 0 Weapons\00001EF4.dds
+exit
+
 edit 00000C3C
 import 0 Spartan\00000C3C.dds
 exit
