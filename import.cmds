@@ -90,6 +90,22 @@ edit 0000130C
 import 0 Weapons\0000130C.dds
 exit
 
+edit 00000CAF
+import 0 Weapons\00000CAF.dds
+exit
+
+edit 00002499
+import 0 Weapons\00002499.dds
+exit
+
+edit 0000249A
+import 0 Weapons\0000249A.dds
+exit
+
+edit 0000249D
+import 0 Weapons\0000249D.dds
+exit
+
 edit 00000C3C
 import 0 Spartan\00000C3C.dds
 exit
