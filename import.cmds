@@ -98,12 +98,20 @@ edit 00002499
 import 0 Weapons\00002499.dds
 exit
 
+edit 0000249C
+import 0 Weapons\0000249C.dds
+exit
+
 edit 0000249A
 import 0 Weapons\0000249A.dds
 exit
 
 edit 0000249D
 import 0 Weapons\0000249D.dds
+exit
+
+edit 00002494
+import 0 Weapons\00002494.dds
 exit
 
 edit 00000C3C
