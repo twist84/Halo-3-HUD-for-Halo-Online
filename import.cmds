@@ -8,6 +8,8 @@ import 00001D87 Weapons\BATTLE_RIFLE_00001D87_CHDT.tag
 
 import 00002459 Weapons\BEAM_RIFLE_00002459_CHDT.tag
 
+import 000020BC Weapons\MAGNUM_000020BC_CHDT.tag
+
 import 000012BD Scoreboard\SCORE_000012BD_CHDT.tag
 
 import 000025F4 Monitor\MONITOR_000025F4_CHDT.tag
@@ -15,6 +17,8 @@ import 000025F4 Monitor\MONITOR_000025F4_CHDT.tag
 import 000012C1 Monitor\SANDBOX_000012C1_CHDT.tag
 
 import 00000C1E Spartan\SPARTAN_00000C1E_CHDT.tag
+
+import 0000018D Spartan\GLOBALS_0000018D_CHGD.tag
 
 import 0000159E Weapons\SWORD_0000159E_WEAP.tag
 
@@ -118,6 +122,10 @@ exit
 
 edit 00000C3C
 import 0 Spartan\00000C3C.dds
+exit
+
+edit 000012C7
+import 0 Spartan\000012C7.dds
 exit
 
 edit 00000C8A
