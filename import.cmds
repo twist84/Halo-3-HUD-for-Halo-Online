@@ -176,10 +176,6 @@ edit 00000C3C
 import 0 Spartan\00000C3C.dds
 exit
 
-edit 000012C7
-import 0 Spartan\000012C7.dds
-exit
-
 edit 00000C8A
 import 0 Spartan\00000C8A.dds
 exit
