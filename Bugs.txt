@@ -2,8 +2,6 @@ Bugs:
 
 Monitor (000025F4)
 	- The radar is oval, like the spartan's radar, when it should be circle.
-	- The radar blips are smaller.
-	- Distortion is broken.
 	- The monitor uses spartan globals, this should be fixed.
 
 Sandbox (000012C1)
@@ -24,3 +22,6 @@ Equiptment CHDT's
 
 Scoreboard (000012BD)
 	- The "Who Am I" arrow should not be handled by the CHDT and therefore isn't positioned correctly.
+
+Globals CHGD
+	-VIP / Objective Waypoints are broken.

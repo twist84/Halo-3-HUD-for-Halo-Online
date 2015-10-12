@@ -70,6 +70,14 @@ import 00000C1E Spartan\SPARTAN_00000C1E_CHDT.tag
 
 import 000001BD Spartan\GLOBALS_000001BD_CHGD.tag
 
+import 00000C44 Spartan\BOOTANIM1_00000C44_CHAD.tag
+
+import 00000C42 Spartan\BOOTANIM2_00000C42_CHAD.tag
+
+import 00000C45 Spartan\BOOTANIM3_00000C45_CHAD.tag
+
+import 00000C87 Spartan\VISOROPACITY_00000C87_CHAD.tag
+
 import 0000159E Weapons\SWORD_0000159E_WEAP.tag
 
 import 0000150C Weapons\HAMMER_0000150C_WEAP.tag
@@ -120,6 +128,10 @@ import 000014FF Weapons\BRUTE_SHOT_000014FF_WEAP.tag
 
 edit 00001C86
 import 0 Weapons\00001C86.dds
+exit
+
+edit 00001E09
+import 0 Weapons\00001E09.dds
 exit
 
 edit 00000CBA

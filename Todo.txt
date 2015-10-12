@@ -16,14 +16,13 @@ Spartan (00000C1E)
 Weapon CHDT's
 	- Remake the textures to a higher quality (tags are already ready).
 	- Fix the infinate ammo symbol.
-	- Recreate bullet meter and schematic sheets to a higher quality.
-	- Pickup Schematics need resizing.
-
-		Scope meters
-		- Bullet meters here need scaling to 0.7.
+	- Attribute Weapons
 
 		RNG Covanant Carbine
 		- The scope has a sniper bullet meter.
+
+		Turrets
+		- Turrets are low on bitmap slots, maybe missing a bitmap or two. To fix this overwrite them with another weapon and edit. The flamethrower is correct.
 
 Weapon WEAP's
 	- Fix the text displays.
@@ -33,8 +32,9 @@ Equiptment CHDT's
 	- Make them show?
 
 Scoreboard (000012BD)
-	- Remake the textures to a higher quality (tags are already ready).
-	- Extract 0000131A, recreate to a higher quality, rescale in tegs.
 
 Gametype Displays
 	- Rescale
+
+Vehicle CHDT's
+	- Rescale Crosshairs
