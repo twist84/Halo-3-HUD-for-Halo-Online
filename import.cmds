@@ -186,6 +186,18 @@ edit 00002494
 import 0 Weapons\00002494.dds
 exit
 
+edit 00000C86
+import 0 Weapons\00000C86.dds
+exit
+
+edit 00000E79
+import 0 Spartan\00000E79.dds
+exit
+
+edit 00000E7A
+import 0 Spartan\00000E7A.dds
+exit
+
 edit 00000C3C
 import 0 Spartan\00000C3C.dds
 exit
