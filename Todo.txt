@@ -12,12 +12,37 @@ Spartan (00000C1E)
 
 Weapon CHDT's
 	- Attribute Weapons
+		Weapons that can use their standard meters:
+			- SMG
+				- I have no idea why this works as even higher capacity SMGs can use the standard meter but it has been tested.
+			- AR (Except Power)
+			- BR (Except Ammo, Power)
+			- Pistol (Except Power)
+			- Plasma Pistol
+			- Carbine (Except ROF, Power)
+			- DMR
+			- Plasma Rifle
+		Weapons that can use a different, available bullet meter:
+			- AR (Power)
+				- 2 Row Reach bullet meter.
+			- BR (Ammo)
+				- 2 Row Reach bullet meter.
+			- BR (Power)
+				- SMG bullet meter.
+			- Pistol (Power)
+				- 1 Row Reach bullet meter.
+			- Carbine (ROF + Power)
+				- 1 Row Reach bullet meter.
+			- Mauler (Power)
+				- Shotgun bullet meter.
+
+		Weapons that need new bullet meters:
 
 		RNG Covanant Carbine
 		- The scope has a sniper bullet meter.
 
-		Turrets
-		- Turrets are low on bitmap slots, maybe missing a bitmap or two. To fix this overwrite them with another weapon and edit. The flamethrower is correct.
+	Turrets
+	- Turrets are low on bitmap slots, maybe missing a bitmap or two. To fix this overwrite them with another weapon and edit. The flamethrower is correct.
 
 Equiptment CHDT's
 	- Rescale and reposition.
@@ -29,3 +54,9 @@ Gametype Displays
 
 Vehicle CHDT's
 	- Rescale Crosshairs
+
+Elite HUD:
+	- Make a toggle for the elite HUD.
+
+Mainmenu Map:
+	- Recreate the H3 Beta menu.

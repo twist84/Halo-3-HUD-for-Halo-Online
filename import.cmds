@@ -201,6 +201,10 @@ edit 00000E75
 import 0 Weapons\00000E75.dds
 exit
 
+edit 00000E77
+import 0 Weapons\00000E77.dds
+exit
+
 edit 00000C86
 import 0 Spartan\00000C86.dds
 exit
