@@ -1,21 +1,16 @@
 Todo:
 
 Monitor (000025F4)
-	- Fix the red flash (health bar alone should be flashing).
+	- Mess with the health bar flash again.
 	- Remake the textures to a higher quality (tags are already ready).
-	- Fix the radar shape, and blips.
-	- Fix distortion.
 
 Sandbox (000012C1)
-	- Move the crosshair somehow.
 
 Spartan (00000C1E)
 	- Remake the textures to a higher quality (tags are already ready).
 	- Fix the Boot Sequence animation (Remove until fixed).
 
 Weapon CHDT's
-	- Remake the textures to a higher quality (tags are already ready).
-	- Fix the infinate ammo symbol.
 	- Attribute Weapons
 
 		RNG Covanant Carbine
@@ -24,12 +19,8 @@ Weapon CHDT's
 		Turrets
 		- Turrets are low on bitmap slots, maybe missing a bitmap or two. To fix this overwrite them with another weapon and edit. The flamethrower is correct.
 
-Weapon WEAP's
-	- Fix the text displays.
-
 Equiptment CHDT's
 	- Rescale and reposition.
-	- Make them show?
 
 Scoreboard (000012BD)
 

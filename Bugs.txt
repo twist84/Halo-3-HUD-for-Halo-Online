@@ -10,7 +10,6 @@ Sandbox (000012C1)
 Spartan (00000C1E)
 
 Weapon CHDT's
-	- The infinate ammo symbol is broken.
 	- The pickup weapon widget is incorrect. this should be handled by the weapon tag, like the out of ammo text.
 		- This is also breaking the dual weild pickup text, and presumably the take from ally text.
 
