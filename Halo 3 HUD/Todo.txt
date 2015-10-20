@@ -35,6 +35,7 @@ Weapon CHDT's
 				- 1 Row Reach bullet meter.
 			- Mauler (Power)
 				- Shotgun bullet meter.
+					- Copy the shotgun meter, recreate the mauler meter with 6 rounds.
 
 		Weapons that need new bullet meters:
 
