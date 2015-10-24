@@ -11,3 +11,5 @@ To Install:
 
 - To update, just use the same method. The installer will know that you're updating.
 
+BACKUP YOUR TAGS!
+- This is important as the installer has been known to corrupt the tags file during testing.

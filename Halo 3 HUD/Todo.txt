@@ -12,30 +12,27 @@ Spartan (00000C1E)
 
 Weapon CHDT's
 	- Attribute Weapons
-		Weapons that can use their standard meters:
-			- SMG
-				- I have no idea why this works as even higher capacity SMGs can use the standard meter but it has been tested.
-			- AR (Except Power)
-			- BR (Except Ammo, Power)
-			- Pistol (Except Power)
-			- Plasma Pistol
-			- Carbine (Except ROF, Power)
-			- DMR
-			- Plasma Rifle
-		Weapons that can use a different, available bullet meter:
-			- AR (Power)
-				- 2 Row Reach bullet meter.
-			- BR (Ammo)
-				- 2 Row Reach bullet meter.
-			- BR (Power)
-				- SMG bullet meter.
-			- Pistol (Power)
-				- 1 Row Reach bullet meter.
-			- Carbine (ROF + Power)
-				- 1 Row Reach bullet meter.
-			- Mauler (Power)
-				- Shotgun bullet meter.
-					- Copy the shotgun meter, recreate the mauler meter with 6 rounds.
+
+		Added Bullets
+			Carbine 20
+			Mauler 6
+			AR 40
+			BR 48
+			DMR 20
+
+
+		TODO - Removed Bullets:
+			AR 28
+			BR 40
+			BR 30
+			SMG 30
+			SMG 40
+			Pistol 6
+			Carbine 9
+			DMR 12
+			DMR 8
+			DMR 18
+			DNR 15
 
 		Weapons that need new bullet meters:
 
