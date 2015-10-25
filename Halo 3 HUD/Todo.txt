@@ -22,9 +22,6 @@ Weapon CHDT's
 
 
 		TODO - Removed Bullets:
-			AR 28
-			BR 40
-			BR 30
 			SMG 30
 			SMG 40
 			Pistol 6
@@ -41,6 +38,10 @@ Weapon CHDT's
 
 	Turrets
 	- Turrets are low on bitmap slots, maybe missing a bitmap or two. To fix this overwrite them with another weapon and edit. The flamethrower is correct.
+
+	- Thicker outline on bitmaps.
+
+	- Recreate to 23pt.
 
 Equiptment CHDT's
 	- Rescale and reposition.
