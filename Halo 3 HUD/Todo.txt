@@ -30,6 +30,7 @@ Weapon CHDT's
 			DMR 8
 			DMR 18
 			DNR 15
+			Magnum 6
 
 		Weapons that need new bullet meters:
 
