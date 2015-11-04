@@ -224,14 +224,6 @@ edit 00000CBA
 import 0 "Halo 3 HUD\Weapons\00000CBA.dds"
 exit
  
-edit 00000E75 CARBINE
-import 0 "Halo 3 HUD\Weapons\00000E75 CARBINE.dds"
-exit
- 
-edit 00000E75 GIMP
-import 0 "Halo 3 HUD\Weapons\00000E75 GIMP.dds"
-exit
- 
 edit 00000E75
 import 0 "Halo 3 HUD\Weapons\00000E75.dds"
 exit
@@ -290,10 +282,6 @@ exit
  
 edit 0000249D
 import 0 "Halo 3 HUD\Weapons\0000249D.dds"
-exit
- 
-edit DMR24
-import 0 "Halo 3 HUD\Weapons\DMR24.dds"
 exit
  
 edit 000025F8
