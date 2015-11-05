@@ -64,6 +64,12 @@ import 00001E11 "Halo 3 HUD\Weapons\DMR_00001E11_CHDT.tag"
 
 import 0000259E "Halo 3 HUD\Weapons\DMR_MAG_0000259E_CHDT.tag"
 
+import 00002392 "Halo 3 HUD\Weapons\DMR_ACC_00002392_CHDT.tag"
+
+import 000023C0 "Halo 3 HUD\Weapons\DMR_PWR_000023C0_CHDT.tag"
+
+import 000023A5 "Halo 3 HUD\Weapons\DMR_ROF_000023A5_CHDT.tag"
+
 import 0000158A "Halo 3 HUD\Weapons\DMR_DMG_0000158A_WEAP.tag"
 
 import 000015A2 "Halo 3 HUD\Weapons\FLAG_000015A2_WEAP.tag"
