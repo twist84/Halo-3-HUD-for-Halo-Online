@@ -136,9 +136,13 @@ import 0000157D "Halo 3 HUD\Weapons\SMG_0000157D_WEAP.tag"
 
 import 00001F50 "Halo 3 HUD\Weapons\SMG_00001F50_CHDT.tag"
 
-import 000023E1 "Halo 3 HUD\Weapons\SMG_000023E1_CHDT.tag"
+import 000023E1 "Halo 3 HUD\Weapons\SMG_DMG_000023E1_CHDT.tag"
 
-import 000023CC "Halo 3 HUD\Weapons\SMG_000023CC_CHDT.tag"
+import 000023CC "Halo 3 HUD\Weapons\SMG_ROF_000023CC_CHDT.tag"
+
+import 000023D7 "Halo 3 HUD\Weapons\SMG_ACC_000023D7_CHDT.tag"
+
+import 000023EA "Halo 3 HUD\Weapons\SMG_PWR_000023EA_CHDT.tag"
 
 import 0000158E "Halo 3 HUD\Weapons\SMG_DMG_0000158E_WEAP.tag"
 
