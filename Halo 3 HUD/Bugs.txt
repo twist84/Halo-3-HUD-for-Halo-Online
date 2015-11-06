@@ -13,8 +13,13 @@ Weapon CHDT's
 	- The pickup weapon widget is incorrect. this should be handled by the weapon tag, like the out of ammo text.
 		- This is also breaking the dual weild pickup text, and presumably the take from ally text.
 
-	RNG Covanant Carbine
-		- The scope has a sniper bullet meter.
+	Plasma Turret:
+		- The battery number flashes red, a simple anim removal will fix this.
+		- There are no meter flashes.
+		- There is no divider.
+
+	Machine Gun Turret:
+		- There are no meter flashes
 
 Equiptment CHDT's
 	- They don't show.
@@ -23,4 +28,4 @@ Scoreboard (000012BD)
 	- The "Who Am I" arrow should not be handled by the CHDT and therefore isn't positioned correctly.
 
 Globals CHGD
-	-VIP / Objective Waypoints are broken.
+	- VIP / Objective Waypoints are broken.
