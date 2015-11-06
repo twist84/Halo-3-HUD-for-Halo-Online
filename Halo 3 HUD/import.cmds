@@ -210,8 +210,8 @@ edit 00000CAF
 import 0 "Halo 3 HUD\Weapons\00000CAF.dds"
 exit
  
-edit 00000CB0
-import 0 "Halo 3 HUD\Weapons\00000CB0.dds"
+edit 00001DB1
+import 0 "Halo 3 HUD\Weapons\00001DB1.dds"
 exit
  
 edit 00000CB2
