@@ -94,6 +94,10 @@ import 0000219D "Halo 3 HUD\Weapons\MACHINE_GUN_TURRET_0000219D_CHDT.tag"
 
 import 000020BC "Halo 3 HUD\Weapons\MAGNUM_000020BC_CHDT.tag"
 
+import 00002412 "Halo 3 HUD\Weapons\MAGNUM_DMG_00002412_CHDT.tag"
+
+import 0000241B "Halo 3 HUD\Weapons\MAGNUM_PWR_0000241B_CHDT.tag"
+
 import 00001504 "Halo 3 HUD\Weapons\MAULER_00001504_WEAP.tag"
 
 import 0000208E "Halo 3 HUD\Weapons\MAULER_0000208E_CHDT.tag"
@@ -250,6 +254,10 @@ edit 00000CBA
 import 0 "Halo 3 HUD\Weapons\00000CBA.dds"
 exit
  
+edit 00000CBB
+import 0 "Halo 3 HUD\Weapons\00000CBB.dds"
+exit
+
 edit 00000E75
 import 0 "Halo 3 HUD\Weapons\00000E75.dds"
 exit
