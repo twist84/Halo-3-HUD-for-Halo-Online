@@ -3,6 +3,7 @@ Bugs:
 Monitor (000025F4)
 	- The radar is oval, like the spartan's radar, when it should be circle.
 	- The monitor uses spartan globals, this should be fixed.
+	- turbulance alignment
 
 Sandbox (000012C1)
 	- The crosshair shouldn't be centered. This is making scaling the binoculars a difficulty.

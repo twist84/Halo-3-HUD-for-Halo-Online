@@ -28,7 +28,7 @@ echo.
 echo.
 echo  Patch     : Halo 3 HUD
 echo.
-echo  Version   : V1 Pre-Release
+echo  Version   : V1.1
 echo.
 echo  Type      : TAG AND TEXTURE REPLACEMENT
 echo.
