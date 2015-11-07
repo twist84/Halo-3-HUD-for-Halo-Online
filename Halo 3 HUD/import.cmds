@@ -108,7 +108,7 @@ import 0000208E "Halo 3 HUD\Weapons\MAULER_0000208E_CHDT.tag"
 
 import 00001592 "Halo 3 HUD\Weapons\MAULER_PWR_00001592_WEAP.tag"
 
-import 0000215A "Halo 3 HUD\Weapons\MISSILE_POD_0000215A_CHDT.tag"
+import 0000215A "Halo 3 HUD\Weapons\MISSILE_POD_0000215A_CHDT.tag" full
 
 import 000014F8 "Halo 3 HUD\Weapons\NEEDLER_000014F8_WEAP.tag"
 
