@@ -1,9 +1,9 @@
 
-IMPORTANT: Please backup your Halo folder, as this Pre-Release has been know to cause a few tag corruptions. 
+IMPORTANT: Please backup your Halo folder, this mod is still in development and has been know to cause a few tag corruptions. 
 Usually they're fixed pretty quickly but a backup always comes in handy.
 
 # Halo-3-HUD-for-Halo-Online
-A remake of the Halo 3 HUD (and a few other things) for Halo Online. Installer coming soon.
+A remake of the Halo 3 HUD (and a few other things) for Halo Online.
 
 To Install:
 1. Extract the zip to your maps folder.
