@@ -41,7 +41,7 @@ echo.
 echo.
 echo  Press any key to start patching...
 echo.
-pause>null
+pause>nul
 echo.
 echo.
 Type "Halo 3 HUD\import.cmds" | HaloOnlineTagTool.exe
@@ -51,4 +51,4 @@ echo.
 echo.
 echo  Patching complete, Press any key to close...
 echo.
-pause>null
+pause>nul
